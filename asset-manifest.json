@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portafolioPersonal/static/css/main.54fd5cdb.css",
+    "main.js": "/portafolioPersonal/static/js/main.a65d496d.js",
+    "static/media/ORGANIZACIONES.png": "/portafolioPersonal/static/media/ORGANIZACIONES.f73c92bc58f9dad2b09b.png",
+    "static/media/ScrollReveal.png": "/portafolioPersonal/static/media/ScrollReveal.2da8c291f42ace3027cf.png",
+    "static/media/yo.png": "/portafolioPersonal/static/media/yo.b5bbe58fec370abded7c.png",
+    "static/media/proyecto-veris.png": "/portafolioPersonal/static/media/proyecto-veris.435c456a56f266a5a979.png",
+    "static/media/coffee-apple.jpg": "/portafolioPersonal/static/media/coffee-apple.a0c19713a15fff3f3cff.jpg",
+    "static/media/htmlDom.png": "/portafolioPersonal/static/media/htmlDom.b13754e23c169dfb3a71.png",
+    "static/media/jquery.png": "/portafolioPersonal/static/media/jquery.05abe94f0393bd6e9ddf.png",
+    "static/media/xmlJson.png": "/portafolioPersonal/static/media/xmlJson.a27696b4d5958bfc08f0.png",
+    "index.html": "/portafolioPersonal/index.html",
+    "main.54fd5cdb.css.map": "/portafolioPersonal/static/css/main.54fd5cdb.css.map",
+    "main.a65d496d.js.map": "/portafolioPersonal/static/js/main.a65d496d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54fd5cdb.css",
+    "static/js/main.a65d496d.js"
+  ]
+}
